@@ -1,2 +1,2 @@
 # Online Resume
-- https://rkapril.github.io/Online-Resume/
+- https://rkapril.github.io/online-resume/
